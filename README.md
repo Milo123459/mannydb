@@ -23,4 +23,4 @@ Inside, we follow a template like this:
 
 This allows you to write content, and we will render it as such, with headers getting a nice, sturdy red colour, sub headers getting a cool blue and sub-sub headers getting a cool green. Colours are customisable, but, that is in the future roadmap.
 
-Submit a PR, adding your file and enjoy. As soon as it is merged, type `manny update` and then you can type `manny manifest <app_i_added_here>` or `manny <app_i_added_here>` if the name isn't [generic](https://github.com/Milo123459/manny#generic)
+Submit a PR, adding your file and enjoy. As soon as it is merged, type `manny update` and then you can type `manny manifest <app_i_added_here>`.
